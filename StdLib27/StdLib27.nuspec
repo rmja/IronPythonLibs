@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>IronPythonLibs.StdLib27</id>
+    <version>2.7.5</version>
+    <authors>IronPython</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>IronPython Standard Library Assembly</description>
+  </metadata>
+  <files>
+    <file src="StdLib27.dll" target="lib/net45" />
+  </files>
+</package>
