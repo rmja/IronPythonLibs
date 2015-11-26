@@ -2,13 +2,13 @@
 <package >
   <metadata>
     <id>IronPythonLibs.Pytz</id>
-    <version>2015.2</version>
+    <version>2015.7</version>
     <authors>Stuart Bishop</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Python Pytz Library Assembly</description>
   </metadata>
   <files>
     <file src="Pytz.dll" target="lib/net45" />
-    <file src="pytz-2015.2\pytz\zoneinfo\**" target="lib/net45/pytz/zoneinfo" />
+    <file src="pytz-2015.7\pytz\zoneinfo\**" target="lib/net45/pytz/zoneinfo" />
   </files>
 </package>

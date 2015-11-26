@@ -1,6 +1,6 @@
 pyc_path = r'C:\Program Files (x86)\IronPython 2.7\Tools\Scripts'
-pytz_path = r'pytz-2015.2'
-zoneinfo_path = r'pytz-2015.2\pytz\zoneinfo'
+pytz_path = r'pytz-2015.7'
+zoneinfo_path = r'pytz-2015.7\pytz\zoneinfo'
 
 import sys
 sys.path.append(pyc_path)
